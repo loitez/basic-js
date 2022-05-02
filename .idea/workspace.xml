@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="650f2780-fe68-4b4b-8535-0e3b541dc3c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/basic-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common-character-count.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common-character-count.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/count-cats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/count-cats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dream-team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dream-team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encode-line.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/encode-line.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file-names.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/file-names.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get-email-domain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/get-email-domain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrix-elements-sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix-elements-sum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mine-sweeper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/mine-sweeper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursive-depth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursive-depth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort-by-height.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort-by-height.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sum-digits.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sum-digits.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/what-season.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/what-season.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28PsFAyaj37EK0JJhCtBRUKRJ4r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="countCats(cats)" />
+      <command value="countCats" />
+      <command value="countCats([[0, 1, '^^'],   [0, '^^', 2],   ['^^', 1, 2]])" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="650f2780-fe68-4b4b-8535-0e3b541dc3c6" name="Default Changelist" comment="" />
+      <created>1651129451148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651129451148</updated>
+      <workItem from="1651129452914" duration="956000" />
+      <workItem from="1651148529435" duration="2261000" />
+      <workItem from="1651348706333" duration="1439000" />
+      <workItem from="1651388427547" duration="3121000" />
+      <workItem from="1651414040945" duration="2354000" />
+      <workItem from="1651476228154" duration="13869000" />
+      <workItem from="1651502386305" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651149739755">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="230" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.823@0.0.1549.823" timestamp="1651149739755" />
+    <state x="432" y="187" width="672" height="677" key="run.anything.popup" timestamp="1651494287069">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="432" y="187" width="672" height="677" key="run.anything.popup/0.0.1549.823@0.0.1549.823" timestamp="1651494287069" />
+  </component>
+</project>
