@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="650f2780-fe68-4b4b-8535-0e3b541dc3c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursive-depth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursive-depth.js" afterDir="false" />
-    </list>
+    <list default="true" id="650f2780-fe68-4b4b-8535-0e3b541dc3c6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +46,7 @@
       <workItem from="1651502386305" duration="84000" />
       <workItem from="1651502487982" duration="63000" />
       <workItem from="1651508853913" duration="13562000" />
-      <workItem from="1651530028967" duration="380000" />
+      <workItem from="1651530028967" duration="778000" />
     </task>
     <servers />
   </component>
