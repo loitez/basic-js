@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="650f2780-fe68-4b4b-8535-0e3b541dc3c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carbon-dating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/carbon-dating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extended-repeater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extended-repeater.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunAnythingCache">
@@ -47,7 +48,7 @@
       <workItem from="1651476228154" duration="13869000" />
       <workItem from="1651502386305" duration="84000" />
       <workItem from="1651502487982" duration="63000" />
-      <workItem from="1651508853913" duration="2199000" />
+      <workItem from="1651508853913" duration="8984000" />
     </task>
     <servers />
   </component>
@@ -59,6 +60,10 @@
       <screen x="0" y="0" width="1549" height="823" />
     </state>
     <state x="230" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.823@0.0.1549.823" timestamp="1651149739755" />
+    <state x="284" y="56" key="SettingsEditor" timestamp="1651520730140">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="284" y="56" key="SettingsEditor/0.0.1549.823@0.0.1549.823" timestamp="1651520730140" />
     <state x="432" y="187" width="672" height="677" key="run.anything.popup" timestamp="1651494287069">
       <screen x="0" y="0" width="1549" height="823" />
     </state>
